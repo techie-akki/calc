@@ -2,7 +2,7 @@ def addition(x,y):
     pass
 
 def subt(x,y):
-    pass
+    return x-y
 
 def mult(x,y):
     pass
